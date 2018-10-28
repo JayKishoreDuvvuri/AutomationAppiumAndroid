@@ -69,6 +69,7 @@ To open  UI Automator viewer:- C:\Users\JAY\AppData\Local\Android\Sdk\tools\bin>
 
 
 10. Download the Automation Project from Github https://github.com/JayKishoreDuvvuri/AutomationWunder and save it to your computers Desktop or shared drive. Rename the folder name from "AutomationWunder-master" to "AutomationWunder". Now Import this project into your eclipse as a Java project.
+**Note:- You can also Import the project from Git Repository directly into your eclipse. 
 
 
 11. Open your Eclipse and hover to the tab 'File' at the Left top corner in Eclipse. Select "Open Projects from File system..." option. Click on the 'Directory' button and Select the Project which you have downloaded from GitHub and saved on your computer.Select the project from your computer and click 'Finish' button
