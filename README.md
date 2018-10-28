@@ -68,14 +68,14 @@ To open  UI Automator viewer:- C:\Users\JAY\AppData\Local\Android\Sdk\tools\bin>
 9. Ensure Java-Client Jar file 5.0.4 is added to your Eclipse. 
 
 
-10. Download the Automation Project from Github https://github.com/JayKishoreDuvvuri/MobileTestCases and save it to your computers Desktop or shared drive. Now Export this project into your eclipse as a Java project.
+10. Download the Automation Project from Github https://github.com/JayKishoreDuvvuri/AutomationWunder and save it to your computers Desktop or shared drive. Rename the folder name from "AutomationWunder-master" to "AutomationWunder". Now Import this project into your eclipse as a Java project.
 
 
 11. Open your Eclipse and hover to the tab 'File' at the Left top corner in Eclipse. Select "Open Projects from File system..." option. Click on the 'Directory' button and Select the Project which you have downloaded from GitHub and saved on your computer.Select the project from your computer and click 'Finish' button
 
 
-12. Ensure your project 'AutomationWunder' is loaded with all the necessary Libraries. The Libraries are JRE System Library[JavaSE-1.8],
-    Referenced Libraries having all Selenium Jar files including Java-Client 5.0.4 Jar file and TestNG Library.
+12. Ensure your project 'AutomationWunder' is loaded with all the necessary Libraries. The Libraries are JRE System     
+    Library[JavaSE-1.8], Referenced Libraries having all Selenium Jar files including Java-Client 5.0.4 Jar file and TestNG Library.
     
     
 ### Steps to SetUp 'AutomationWunder' Project in your Eclipse:-
